@@ -39,9 +39,6 @@
     },
     "bugs": {
         "url": "https://github.com/jorgargom/personal_card/issues"
-    },
-    "dependencies": {},
-    "publishConfig": {
-        "registry": "https://npm.registry.github.com/"
     }
+
 }
