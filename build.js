@@ -24,7 +24,7 @@ const data = {
     github: chalk.gray('https://github.com/') + chalk.green('Jorgargom'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorge-garcia-gomez'),
     web: chalk.cyan('https://jorgegarcia.dev'),
-    npx: chalk.red('npx') + ' ' + chalk.white('@Jorgargom/personal_card  (via GitHub Package Registry)'),
+    npx: chalk.red('npx') + ' ' + chalk.white('jorgegarcia'),
     labelWork: chalk.white.bold('       Work:'),
     labelOpenSource: chalk.white.bold('Open Source:'),
     labelTwitter: chalk.white.bold('    Twitter:'),
