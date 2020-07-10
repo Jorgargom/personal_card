@@ -22,7 +22,7 @@ const data = {
     twitter: chalk.gray('https://twitter.com/') + chalk.cyan('jorgardev'),
     npm: chalk.gray('https://npmjs.com/') + chalk.red('~jorgargom'),
     github: chalk.gray('https://github.com/') + chalk.green('Jorgargom'),
-    linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorgargom'),
+    linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorge-garcia-gomez'),
     web: chalk.cyan('https://jorgegarcia.dev'),
     npx: chalk.red('npx') + ' ' + chalk.white('@Jorgargom/personal_card  (via GitHub Package Registry)'),
     labelWork: chalk.white.bold('       Work:'),
