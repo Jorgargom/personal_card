@@ -4,11 +4,11 @@
     "description": "A personal card for Tierney Cyren (@bitandbang)",
     "main": "/bin/card.js",
     "bin": {
-        "bitandbang": "./bin/card.js"
+        "jorgegarcia": "./bin/card.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jorgargom/personal_card.git"
+        "url": "git+https://github.com/Jorgargom/personal_card.git"
     },
     "homepage": "https://jorgegarcia.dev",
     "scripts": {
@@ -38,7 +38,7 @@
         "standard": "^12.0.1"
     },
     "bugs": {
-        "url": "https://github.com/jorgargom/personal_card/issues"
+        "url": "https://github.com/Jorgargom/personal_card/issues"
     }
 
 }

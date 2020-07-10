@@ -21,7 +21,7 @@ const data = {
     opensource: chalk.white('Open Source Weekends Member ') + chalk.green('⬢'),
     twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
     npm: chalk.gray('https://npmjs.com/') + chalk.red('~jorgargom'),
-    github: chalk.gray('https://github.com/') + chalk.green('jorgargom'),
+    github: chalk.gray('https://github.com/') + chalk.green('Jorgargom'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorgargom'),
     web: chalk.cyan('https://jorgegarcia.dev'),
     npx: chalk.red('npx') + ' ' + chalk.white('@bnb/card  (via GitHub Package Registry)'),
