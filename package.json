@@ -1,7 +1,7 @@
 {
-    "name": "@jorgargom/card",
+    "name": "jorgegarcia",
     "version": "1.0.0",
-    "description": "A personal card for Tierney Cyren (@bitandbang)",
+    "description": "A personal card for Jorge Garcia (@jorgargom)",
     "main": "/bin/card.js",
     "bin": {
         "jorgegarcia": "./bin/card.js"
@@ -40,5 +40,6 @@
     "bugs": {
         "url": "https://github.com/Jorgargom/personal_card/issues"
     }
+
 
 }
