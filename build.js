@@ -23,7 +23,7 @@ const data = {
     npm: chalk.gray('https://npmjs.com/') + chalk.red('~jorgargom'),
     github: chalk.gray('https://github.com/') + chalk.green('Jorgargom'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorge-garcia-gomez'),
-    web: chalk.cyan('https://jorgegarcia.dev'),
+    web: chalk.cyan('https://jorgegarciagomez.es'),
     npx: chalk.red('npx') + ' ' + chalk.white('jorgegarcia'),
     labelWork: chalk.white.bold('       Work:'),
     labelOpenSource: chalk.white.bold('Open Source:'),
