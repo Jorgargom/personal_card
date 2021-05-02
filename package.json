@@ -1,6 +1,6 @@
 {
     "name": "jorgegarcia",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "A personal card for Jorge Garcia (@jorgargom)",
     "main": "/bin/card.js",
     "bin": {
@@ -26,7 +26,7 @@
         "npx card",
         "business card"
     ],
-    "author": "Jorge García Gómez <jorge@jorgegarciagomez.es> (http://jorgegarcia.dev)",
+    "author": "Jorge García Gómez <jorge@jorgegarciagomez.es> (http://jorgegarciagomez.es)",
     "license": "MIT",
     "files": [
         "bin/card.js",
@@ -40,6 +40,4 @@
     "bugs": {
         "url": "https://github.com/Jorgargom/personal_card/issues"
     }
-
-
 }

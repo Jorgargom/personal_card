@@ -15,13 +15,13 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white('               Jorge García'),
-    handle: chalk.white('jorge@jorgegarciagomez.es'),
+    name: chalk.cyan('              Jorge García'),
+    handle: chalk.cyan('jorge@jorgegarciagomez.es'),
     work: chalk.white('Web Developer at Imaweb'),
     opensource: chalk.white('Open Source Weekends Member ') + chalk.green('⬢'),
-    twitter: chalk.gray('https://twitter.com/') + chalk.cyan('jorgardev'),
+    twitter: chalk.gray('https://twitter.com/') + chalk.green('jorgardev'),
     npm: chalk.gray('https://npmjs.com/') + chalk.red('~jorgargom'),
-    github: chalk.gray('https://github.com/') + chalk.green('Jorgargom'),
+    github: chalk.gray('https://github.com/') + chalk.yellow('Jorgargom'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jorge-garcia-gomez'),
     web: chalk.cyan('https://jorgegarciagomez.es'),
     npx: chalk.red('npx') + ' ' + chalk.white('jorgegarcia'),
